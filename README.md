@@ -2,16 +2,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Lyra Hunter`
+- **CCID:** `jjhunter`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+https://www.geeksforgeeks.org/android/handling-click-events-button-android-java/
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Neila Khudaibergenova`    | `nkhudaib` |
 | `<Add more>` | `<CCID>`  |
